@@ -12,6 +12,7 @@ decorator==5.1.1
 docopt==0.6.2
 entrypoints==0.4
 fonttools==4.38.0
+flask
 gitdb==4.0.10
 GitPython==3.1.30
 idna==3.4
