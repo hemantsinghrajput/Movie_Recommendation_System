@@ -101,7 +101,7 @@ mdit-py-plugins==0.3.3
 mdurl==0.1.2
 mistune==2.0.5
 ml-dtypes==0.1.0
-mlflow==2.3.2
+mlflow==1.30.1
 multidict==6.0.4
 mypy-extensions==1.0.0
 nbclassic==1.0.0
@@ -109,7 +109,7 @@ nbclient==0.7.4
 nbconvert==7.4.0
 nbformat==5.8.0
 nest-asyncio==1.5.6
-nltk==3.8.1
+nltk==3.7.5
 notebook==6.5.4
 notebook_shim==0.2.3
 numexpr==2.8.4
